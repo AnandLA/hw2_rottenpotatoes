@@ -1,0 +1,2 @@
+--- 
+BUNDLE_WITHOUT: productionbundle:exec:rake:db:migrate
